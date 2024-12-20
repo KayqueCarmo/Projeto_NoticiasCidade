@@ -1,0 +1,1 @@
+Projeto de um site comunicando sobre as notícias da cidade apenas com HTML e CSS.
